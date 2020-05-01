@@ -1,0 +1,13 @@
+{
+  "name": "InstantMap",
+  "author": "janniksam",
+  "description": "Unlocks the complete map.",
+  "version": "1.0",
+  "license": "GIT",
+  "icon": "",
+  "banner": "",
+  "gameVersion": "1.0",
+  "updateUrl": "https://greenhellmodding.com/api/v1/mods/instantmap/version.txt",
+  "isModPermanent": false,
+  "excludedFiles": []
+}
