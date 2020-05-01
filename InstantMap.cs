@@ -27,8 +27,8 @@ public class InstantMap : Mod
         if (!ValidateArguments(args))
         {
             Debug.Log("Please use either \n" +
-                      "- \"instantmap simple\" - Unlock map only\n" +
-                      "- \"instantmap full\" - Unluck map including all places of interest");
+                      "- \"instantmap simple\" - Unlock the map only\n" +
+                      "- \"instantmap full\" - Unlock the map including all places of interest");
             return;
         }
 
